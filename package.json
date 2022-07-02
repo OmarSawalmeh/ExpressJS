@@ -1,0 +1,26 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Crash Express Using EJS, jQuery and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarSawalmeh/ExpressJS.git"
+  },
+  "author": "Omar Sawalmeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarSawalmeh/ExpressJS/issues"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^3.1.8",
+    "express": "*",
+    "express-validator": "^6.14.2",
+    "mongojs": "^3.1.0"
+  },
+  "homepage": "https://github.com/OmarSawalmeh/ExpressJS#readme"
+}
